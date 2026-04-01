@@ -97,7 +97,7 @@ export default function CookiePolicyPage() {
               </div>
             </div>
             <p className="text-primary-foreground/40 text-xs uppercase tracking-[0.3em] pl-5 border-l border-primary-foreground/10 font-sans">
-              Aktualizováno: 1. ledna 2025
+              Aktualizováno: 2026
             </p>
           </div>
         </section>

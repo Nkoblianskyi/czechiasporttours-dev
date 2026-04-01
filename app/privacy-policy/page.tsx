@@ -199,7 +199,7 @@ export default function PrivacyPolicyPage() {
               </div>
             </div>
             <p className="text-primary-foreground/40 text-xs uppercase tracking-[0.3em] pl-5 border-l border-primary-foreground/10">
-              Aktualizováno: 1. ledna 2025
+              Aktualizováno: 2026
             </p>
           </div>
         </section>

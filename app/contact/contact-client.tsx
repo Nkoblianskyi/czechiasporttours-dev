@@ -287,7 +287,7 @@ export default function ContactClient() {
                     id="date"
                     label="Preferovaný termín"
                     name="date"
-                    placeholder="např. červen 2025"
+                    placeholder="např. červen 2026"
                     value={form.date}
                     onChange={handleChange}
                   />

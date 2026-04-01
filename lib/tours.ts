@@ -100,7 +100,7 @@ export const tours: Tour[] = [
       'Legendární závodní okruh MotoGP a Formule 1. Projděte boxovou uličku, pit lane, padok a přiblížte se místům, kde vznikaly dějiny motorsportu.',
     longDescription:
       'Automotodrom Brno je jedním z nejslavnějších závodních okruhů Evropy. Poprvé se zde závody konaly v roce 1930 a moderní okruh byl otevřen v roce 1987. Hostil Grand Prix Formule 1 i MotoGP a patří ke klenotům světového motorsportu. Naše prohlídka provede skupinu boxovou uličkou, padokem, závodinami i závodním kontrolním věžím. Odborný průvodce přibližuje techniku, historii závodů a příběhy šampionů, kteří se zapsali do legend tohoto místa.',
-    image: '/images/tour-cycling-cz.jpg',
+    image: '/images/photo_2026-04-01_13-08-49.jpg',
     highlights: [
       'Prohlídka boxové uličky a pit lane',
       'Padok a závodní garáže',
@@ -255,7 +255,7 @@ export const tours: Tour[] = [
       'Ikonický pražský plavecký stadion, dějiště mistrovství světa a Evropy. Prozkoumejte olympijský bazén, systémy měření a historii čs. a českého plavání.',
     longDescription:
       'Plavecký stadion Podolí byl otevřen v roce 1965 a je jedním z nejstarších olympijských bazénů v Evropě. Hostil mezinárodní závody a vychoval generace českých závodních plavců. Naše prohlídka zahrnuje 50metrový závodní bazén, technické zázemí, časomíru, archiv výsledků a výstavu o legendách čs. plavání.',
-    image: '/images/tour-athletics-cz.jpg',
+    image: '/images/photo_2026-04-01_13-02-45.jpg',
     highlights: [
       'Závodní 50metrový bazén',
       'Prezentace časomíry a technologií',
